@@ -1,2 +1,2 @@
 # ms.lia
-welcome to Lia's Major Studio portfolio 
+welcome to my portfolio for Major Studio 1. 
